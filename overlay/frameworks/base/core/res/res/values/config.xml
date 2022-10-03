@@ -70,4 +70,7 @@
     <string name="config_headlineFontFamily">circular-std</string>
     <string name="config_headlineFontFamilyMedium">circular-std-medium</string>
     <string name="config_headlineFontFeatureSettings">ss03</string>
+
+    <!-- Default component for QR code scanner -->
+    <string name="config_defaultQrCodeComponent" translatable="false">org.p404.aperture/org.lineageos.aperture.QrScannerActivity</string>
 </resources>
