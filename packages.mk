@@ -16,5 +16,6 @@
 
 # 404 Packages
 PRODUCT_PACKAGES += \
+    BlackTheme \
     P404ThemePickerOverlay \
     P404ThemesStub \
