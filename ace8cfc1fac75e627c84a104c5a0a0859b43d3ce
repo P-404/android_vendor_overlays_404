@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "455a151d_079bcd3e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000001
+      },
+      "writtenOn": "2022-12-28T13:15:40Z",
+      "side": 1,
+      "message": "Font Selection is needed adding 123123 fonts is not good 😊 will rebase it soon",
+      "revId": "ace8cfc1fac75e627c84a104c5a0a0859b43d3ce",
+      "serverId": "c85314f7-38ff-4b73-93db-2637f3516207"
+    }
+  ]
+}
