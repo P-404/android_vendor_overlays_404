@@ -19,3 +19,8 @@ PRODUCT_PACKAGES += \
     BlackTheme \
     P404ThemePickerOverlay \
     P404ThemesStub \
+    FontGoogleSansOverlay \
+    FontPoppinsOverlay \
+    FontWorkSansOverlay \
+    FontSatoshiOverlay \
+    FontSourceCodeProOverlay
