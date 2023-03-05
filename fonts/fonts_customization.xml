@@ -141,6 +141,10 @@
     </font>
   </family>
 
+  <family customizationType="new-named-family" name="google-sans-clock">
+    <font>GoogleSansClock-Regular.ttf</font>
+  </family>
+
   <!-- Circular-Std -->
   <family customizationType="new-named-family" name="circular-std">
     <font weight="400" style="normal">Circular-Std-Regular.ttf

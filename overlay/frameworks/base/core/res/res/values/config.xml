@@ -70,4 +70,7 @@
     <string name="config_headlineFontFamily">circular-std</string>
     <string name="config_headlineFontFamilyMedium">circular-std-medium</string>
     <string name="config_headlineFontFeatureSettings">ss03</string>
+
+    <!-- Name of the font family to use in the default lockscreen clock -->
+    <string name="config_clockFontFamily" translatable="false">google-sans-clock</string>
 </resources>
